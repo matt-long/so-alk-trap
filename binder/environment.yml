@@ -1,0 +1,11 @@
+name: so-alk-trap
+channels:
+- conda-forge
+dependencies:
+- ipywidgets
+- jupyterlab
+- matplotlib
+- numpy
+- pandas
+- scipy
+- xarray
